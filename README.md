@@ -30,8 +30,8 @@
 
 ### Prefix Sum
 
-- [ ] 18. Find the Highest Altitude
-- [ ] 19. Find Pivot Index
+- [X] 18. Find the Highest Altitude
+- [X] 19. Find Pivot Index
 
 ### Hash Map / Set
 
