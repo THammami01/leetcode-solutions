@@ -35,10 +35,10 @@
 
 ### Hash Map / Set
 
-- [ ] 20. Find the Difference of Two Arrays
-- [ ] 21. Unique Number of Occurrences
-- [ ] 22. Determine if Two Strings Are Close
-- [ ] 23. Equal Row and Column Pairs
+- [X] 20. Find the Difference of Two Arrays
+- [X] 21. Unique Number of Occurrences
+- [X] 22. Determine if Two Strings Are Close
+- [X] 23. Equal Row and Column Pairs
 
 ### Stack
 
