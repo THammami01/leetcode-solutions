@@ -11,7 +11,7 @@
     //   "skipFiles": [
     //     "<node_internals>/**"
     //   ],
-    //   "program": "${workspaceFolder}\\LeetCode-75\\11.js"
+    //   "program": "${workspaceFolder}\\LeetCode-75\\17-1493.js"
     // }
   ]
 }

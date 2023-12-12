@@ -19,14 +19,14 @@
 - [X] 10. Move Zeroes
 - [X] 11. Is Subsequence
 - [X] 12. Container With Most Water
-- [ ] 13. Max Number of K-Sum Pairs
+- [X] 13. Max Number of K-Sum Pairs
 
 ### Sliding Window
 
-- [ ] 14. Maximum Average Subarray I
-- [ ] 15. Maximum Number of Vowels in a Substring of Given Length
-- [ ] 16. Max Consecutive Ones III
-- [ ] 17. Longest Subarray of 1's After Deleting One Element
+- [X] 14. Maximum Average Subarray I
+- [X] 15. Maximum Number of Vowels in a Substring of Given Length
+- [X] 16. Max Consecutive Ones III
+- [X] 17. Longest Subarray of 1's After Deleting One Element
 
 ### Prefix Sum
 

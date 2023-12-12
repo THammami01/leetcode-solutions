@@ -22,14 +22,15 @@ const maxArea = (h: number[]): number => {
   // }
 
   // O(N) SOLUTION
-  let i = 0, j = h.length - 1;
+  let i = 0,
+    j = h.length - 1;
 
   while (i < j) {
-      const temp = Math.min(h[i], h[j]) * (j - i);
-      if (temp > max) max = temp;
+    const temp = Math.min(h[i], h[j]) * (j - i);
+    if (temp > max) max = temp;
 
-      if (h[i] > h[j]) j--;
-      else i++;
+    if (h[i] > h[j]) j--;
+    else i++;
   }
 
   return max;
