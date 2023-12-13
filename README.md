@@ -48,8 +48,8 @@
 
 ### Queue
 
-- [ ] 27. Number of Recent Calls
-- [ ] 28. Dota2 Senate
+- [X] 27. Number of Recent Calls
+- [X] 28. Dota2 Senate
 
 ### Linked List
 
