@@ -42,14 +42,14 @@
 
 ### Stack
 
-- [ ] 24. Removing Stars From a String
-- [ ] 25. Asteroid Collision
-- [ ] 26. Decode String
+- [X] 24. Removing Stars From a String
+- [X] 25. Asteroid Collision
+- [X] 26. Decode String
 
 ### Queue
 
-- [ ] 28. Number of Recent Calls
-- [ ] Dota2 Senate
+- [ ] 27. Number of Recent Calls
+- [ ] 28. Dota2 Senate
 
 ### Linked List
 
