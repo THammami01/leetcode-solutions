@@ -53,10 +53,10 @@
 
 ### Linked List
 
-- [ ] 29. Delete the Middle Node of a Linked List
-- [ ] 30. Odd Even Linked List
-- [ ] 31. Reverse Linked List
-- [ ] 32. Maximum Twin Sum of a Linked List
+- [X] 29. Delete the Middle Node of a Linked List
+- [X] 30. Odd Even Linked List
+- [X] 31. Reverse Linked List
+- [X] 32. Maximum Twin Sum of a Linked List
 
 ### Binary Tree - DFS
 

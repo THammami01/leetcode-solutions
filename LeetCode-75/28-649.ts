@@ -1,8 +1,6 @@
 // https://leetcode.com/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75
 
-// const predictPartyVictory = (senate: string): string => {
-
-const predictPartyVictory = (senate) => {
+const predictPartyVictory = (senate: string): string => {
   // WRONG SOLUTION, 78/82 TEST CASES ONLY HAS PASSED
   // let radiantCount = 0,
   //   direCount = 0;
@@ -48,21 +46,23 @@ const predictPartyVictory = (senate) => {
   while (radiantQueue.length > 0 && direQueue.length > 0)
     if (radiantQueue[0] > direQueue[0]) {
       radiantQueue.shift();
+      // @ts-ignore
       direQueue.push(direQueue.shift() + senate.length);
     } else {
       direQueue.shift();
+      // @ts-ignore
       radiantQueue.push(radiantQueue.shift() + senate.length);
     }
 
   return radiantQueue.length === 0 ? "Dire" : "Radiant";
 };
 
-// console.log(predictPartyVictory("RD")); // Radiant
+console.log(predictPartyVictory("RD")); // Radiant
 console.log(predictPartyVictory("RDD")); // Dire
-// console.log(predictPartyVictory("DDRRR")); // Dire
-// console.log(predictPartyVictory("RRDDD")); // Radiant
-// console.log(predictPartyVictory("DRRDRDRDRDDRDRDR")); // Radiant
-// console.log(predictPartyVictory("RRDRDDRDRRDDDDDRDRDR")); // Radiant
+console.log(predictPartyVictory("DDRRR")); // Dire
+console.log(predictPartyVictory("RRDDD")); // Radiant
+console.log(predictPartyVictory("DRRDRDRDRDDRDRDR")); // Radiant
+console.log(predictPartyVictory("RRDRDDRDRRDDDDDRDRDR")); // Radiant
 
 // Input: senate = "RD"
 // Output: "Radiant"
