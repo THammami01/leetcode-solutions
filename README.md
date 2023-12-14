@@ -60,12 +60,12 @@
 
 ### Binary Tree - DFS
 
-- [ ] 33. Maximum Depth of Binary Tree
-- [ ] 34. Leaf-Similar Trees
-- [ ] 35. Count Good Nodes in Binary Tree
-- [ ] 36. Path Sum III
-- [ ] 37. Longest ZigZag Path in a Binary Tree
-- [ ] 38. Lowest Common Ancestor of a Binary Tree
+- [X] 33. Maximum Depth of Binary Tree
+- [X] 34. Leaf-Similar Trees
+- [X] 35. Count Good Nodes in Binary Tree
+- [X] 36. Path Sum III
+- [X] 37. Longest ZigZag Path in a Binary Tree
+- [X] 38. Lowest Common Ancestor of a Binary Tree
 
 ### Binary Tree - BFS
 
