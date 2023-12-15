@@ -69,8 +69,8 @@
 
 ### Binary Tree - BFS
 
-- [ ] 39. Binary Tree Right Side View
-- [ ] 40. Maximum Level Sum of a Binary Tree
+- [X] 39. Binary Tree Right Side View
+- [X] 40. Maximum Level Sum of a Binary Tree
 
 ### Binary Search Tree
 
