@@ -74,8 +74,8 @@
 
 ### Binary Search Tree
 
-- [ ] 41. Search in a Binary Search Tree
-- [ ] 42. Delete Node in a BST
+- [X] 41. Search in a Binary Search Tree
+- [X] 42. Delete Node in a BST
 
 ### Graphs - DFS
 
