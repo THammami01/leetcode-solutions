@@ -5,7 +5,7 @@
 ### Summary
 
 | <img src="https://res.cloudinary.com/dgihbgsnz/image/upload/v1702699978/LeetCode_75_3-240x240_u8qyed.png" alt="LeetCode 75" width="175" /> |
-|-|
+:-:
 | 75 Essential & Trending Problems<br/>Must-do problem list for interview prep<br/>Best for 1~3 month of prep time |
 
 #### I. Array / String
@@ -154,5 +154,5 @@
 ### Summary
 
 | <img src="https://res.cloudinary.com/dgihbgsnz/image/upload/v1702699959/Top_Interview_150_3-240x240_uexuix.png" alt="LeetCode 150" width="175" /> |
-:-------------------------:|
+:-:
 | 150 Original & Classic Questions<br/>Covers comprehensive interview topics<br/>Best for 3+ months of prep time |
